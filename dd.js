@@ -1,4 +1,4 @@
-// create by @perkicau @mixc2 
+// create by @Duoc Dev
 // selling method mixc2 starting only 10$ - 400$ 
 // TLS-BYPASS price 70$ you can sell the 
 
