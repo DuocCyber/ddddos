@@ -1,6 +1,18 @@
 // create by @Duoc Dev
 // selling method mixc2 starting only 10$ - 400$ 
 // TLS-BYPASS price 70$ you can sell the 
+console.clear();
+console.log(`
+██████  ██    ██  ██████   ██████     ██████  ███████ ██    ██ 
+██   ██ ██    ██ ██    ██ ██          ██   ██ ██      ██    ██ 
+██   ██ ██    ██ ██    ██ ██          ██   ██ █████   ██    ██ 
+██   ██ ██    ██ ██    ██ ██          ██   ██ ██       ██  ██  
+██████   ██████   ██████   ██████     ██████  ███████   ████   
+
+FloodVIP Script - Developed by DuocDev
+Telegram: @DuocDev
+All Rights Reserved © 2025
+`.green.bold);
 
 
 const net = require("net");
